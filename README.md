@@ -8,8 +8,8 @@
 ---
 
 ## 🔭 Projelerim
-- 🚀 Aktif olarak **[Anesca Roleplay](https://discord.gg/4sZcQAkdFD)** üzerinde çalışıyorum.  
-- 🤝 Ayrıca **[World Scripting](https://discord.gg/DeppTQQqan)** topluluğunda geliştirici olarak yer alıyorum.  
+- 🚀 Eski Projem olarak **[World Roleplay](https://discord.gg/4sZcQAkdFD)** üzerinde çalışıyorum.  
+- 🤝 Ayrıca **[World Resources](https://discord.gg/DeppTQQqan)** Kendi Firmamda Bir Paket Altyapısı Geliştiriyorum
 
 ---
 
