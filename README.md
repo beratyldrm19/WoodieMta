@@ -56,5 +56,3 @@
 </p>
 
 ---
-
-✨ **MTA:SA Lua Developer** | Performans, güvenlik ve rolplay sistemleri geliştirmeye odaklıyım.
