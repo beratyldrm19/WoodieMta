@@ -8,8 +8,7 @@
 ---
 
 ## 🔭 Current Projects
-- Working on **[Anesca Roleplay](https://discord.gg/4sZcQAkdFD)**  
-- Collaborating with **[World Scripting](https://discord.gg/DeppTQQqan)**  
+- Collaborating with **[World Resoruces]**  
 
 ---
 
